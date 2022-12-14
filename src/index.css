@@ -36,7 +36,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--color-bg);
   color: var(--color-white);
-  line-height: height 1.7;
+  line-height: 1.7;
   background-image: url(../src/assets/bg-texture.png);
 }
 

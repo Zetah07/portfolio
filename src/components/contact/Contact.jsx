@@ -26,14 +26,14 @@ const Contact = () => {
 
         <article className='contact__option'>
           <MdOutlineMail className='contact__option-icon'/>
-          <h4>Email</h4>
+          {/* <h4>Email</h4> */}
           <h5>jszetah@gmail.com</h5>
           <a href='mailto:jszetah@gmail.com' target='_blank' >Send a message</a>
       </article>
       
         <article className='contact__option'>
           <BsWhatsapp className='contact__option-icon'/>
-          <h4>WhatsApp</h4>
+          {/* <h4>WhatsApp</h4> */}
           <h5>+573186110790</h5>
           <a href=
           'https://wa.me/+573186110790' target='_blank' >WhatsApp</a>
@@ -41,7 +41,7 @@ const Contact = () => {
       
       <article className='contact__option'>
           <BsTelegram className='contact__option-icon'/>
-          <h4>Telegram</h4>
+          {/* <h4>Telegram</h4> */}
           <h5>Zetah_JS</h5>
           <a href='https://t.me/Zetah_JS' target='_blank' >Telegram</a>
       </article>

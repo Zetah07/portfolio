@@ -3,7 +3,7 @@ import "./testimonials.css";
 import AVTR1 from "../../assets/avatar1.jpg";
 import AVTR2 from "../../assets/avatar2.jpg";
 import AVTR3 from "../../assets/avatar3.jpg";
-import AVTR4 from "../../assets/avatar4.jpg";
+import AVTR4 from "../../assets/avatar4.jpeg";
 import { Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -25,7 +25,7 @@ const data = [
   },
   {
     avatar: AVTR3,
-    name: "Jhon E. Luna",
+    name: "Nano Osorio",
     review:
       "Lorem upsum o or sut amet consectetur a Ipxsxcxng e It. lusto quo nam ampe It so uta odio possimus Quas sint dignissirnos distinctio alias rerum laborum aperiam minus pariatur, consectetur a Ipxsxcxng e It. lusto quo nam ampe It so uta odio possimus Quas sint dignissirnos distinctio alias rerum laborum aperiam minus pariatur totam dicta, repellendus a voluptatibus Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem deserunt explicabo nostrum ducimus quasi?",
   },

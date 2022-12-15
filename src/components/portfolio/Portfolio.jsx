@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.jpg";
@@ -67,10 +68,10 @@ const Porfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} classname="btn">
+                <a href={github} className="btn">
                   Github
                 </a>
-                <a href={demo} classname="btn btn-primary" target="_blank">
+                <a href={demo} className="btn btn-primary" target="_blank">
                   Live Demo
                 </a>
               </div>

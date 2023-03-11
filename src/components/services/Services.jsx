@@ -17,12 +17,12 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheckDouble className='service__list-icon' />
-              <p>Wireframing --- Lorem ipsum dolor sit amet adipisicing elit</p>
+              <p>User Interface (UI) Design --- Lorem ipsum dolor sit amet adipisicing elit</p>
             </li>
 
             <li>
               <BiCheckDouble className='service__list-icon' />
-              <p>Wireframing --- Lorem ipsum dolor sit amet adipisicing elit</p>
+              <p>Prototyping --- Lorem ipsum dolor sit amet adipisicing elit</p>
             </li>
 
             <li>

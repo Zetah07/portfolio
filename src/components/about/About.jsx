@@ -1,5 +1,5 @@
 import React from "react";
-import ME from "../../assets/me-about.jpg";
+// import ME from "../../assets/me-about.jpg";
 import { FiUsers } from "react-icons/fi";
 import { IoFolderOpenOutline } from "react-icons/io5";
 import { FaAward } from "react-icons/fa";
@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About img" />
+            <img src='https://i.ibb.co/98FkZxF/me-about.jpg' alt="About img" />
           </div>
         </div>
 

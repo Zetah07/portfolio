@@ -64,7 +64,7 @@ const Porfolio = () => {
           return (
             <articule key={id} className="portfolio__item">
               <div className="portfolio__item-img">
-              <img src={img} alt="portfolio" style={{ width: "20px", height: "20px", objectFit: "cover" }} />
+              <img src={img} alt="portfolio" style={{ width: "300px", height: "300px", objectFit: "cover" }} />
 
 
               </div>

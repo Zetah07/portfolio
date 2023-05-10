@@ -1,20 +1,20 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
+import IMG1 from "../../assets/rustika.jpeg";
 import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
+import IMG3 from "../../assets/dashdoard.PNG";
+import IMG4 from "../../assets/grooming.PNG";
 import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/netlix.PNG";
 
 const data = [
   {
     id: 1,
     img: IMG1,
-    title: "Crypto Currency Dashboard & Financial Visualization (demo)",
-    github: "https://github.com/Zetah07",
-    demo: "https://dribbble.com/Alien_pixels",
+    title: "Rustika Restaurant",
+    github: "https://github.com/SourceSquack/RustikaFront",
+    demo: "https://rustika-front.vercel.app/",
   },
   {
     id: 2,
@@ -26,30 +26,30 @@ const data = [
   {
     id: 3,
     img: IMG3,
-    title: "Figma Dashboard Ui kit for data design web apps (demo)",
-    github: "https://github.com/Zetah07",
-    demo: "https://dribbble.com/Alien_pixels",
+    title: "Grooming Argentina, Real Project (Dashbpard)",
+    github: "https://github.com/Zetah07/Grooming-Argentina",
+    demo: "https://celadon-sprite-8d4f64.netlify.app/",
   },
   {
     id: 4,
     img: IMG4,
-    title: "Maintainig tasks and tracking progress (demo)",
-    github: "https://github.com/Zetah07",
-    demo: "https://dribbble.com/Alien_pixels",
+    title: "Grooming Argentina, Real Project (webPage)",
+    github: "https://github.com/Zetah07/Grooming-Argentina",
+    demo: "https://helpful-conkies-214a74.netlify.app/",
   },
   {
     id: 5,
     img: IMG5,
-    title: "Charts templates & Infographics in Figma (demo)",
-    github: "https://github.com/Zetah07",
-    demo: "https://dribbble.com/Alien_pixels",
+    title: "Individual project in bootcamp of Countries",
+    github: "https://github.com/Zetah07/PI-COUNTRIES",
+    demo: "https://github.com/Zetah07/PI-COUNTRIES",
   },
   {
     id: 6,
     img: IMG6,
-    title: "Charts templates & Infographics in Figma (demo)",
-    github: "https://github.com/Zetah07",
-    demo: "https://dribbble.com/Alien_pixels",
+    title: "Netflix Clone",
+    github: "https://github.com/Zetah07/Netflix-clone",
+    demo: "https://netflix-clone-zetah.vercel.app/auth",
   },
 ];
 
